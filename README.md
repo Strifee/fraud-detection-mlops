@@ -153,10 +153,3 @@ mlflow ui
 # Open http://localhost:5000 to compare runs
 ```
 ![Mlflow](img/mlflow.png)
-
----
-
-## 👤 Author
-
-**Elmehdi SOUMMER** — ML Engineer  
-[GitHub](https://github.com/Strifee) · [LinkedIn](https://www.linkedin.com/in/soummermehdi)
