@@ -1,0 +1,9 @@
+echo "fraud/" >> .gitignore
+__pycache__/
+*.pyc
+data/
+data/processed/
+model/best_pytorch_model.pt
+mlflow.db
+mlruns/
+.env" > .gitignore"data/dataset/" 
