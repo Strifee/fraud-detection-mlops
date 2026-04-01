@@ -101,7 +101,7 @@ python streaming/kafka_simulator.py --mode simulate
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### Model Health Check
 ![Postman Health](img/postman.png)
@@ -118,7 +118,7 @@ http://localhost:8000/docs
 
 ---
 
-## 🧠 Model Details
+## Model Details
 
 ### PyTorch Neural Network
 - Architecture: `Input(30) → 512 → 256 → 128 → 64 → 1`
@@ -139,7 +139,7 @@ http://localhost:8000/docs
 
 ---
 
-## 📈 MLflow Experiment Tracking
+## MLflow Experiment Tracking
 
 All runs are tracked including:
 - Hyperparameters
